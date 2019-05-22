@@ -15,6 +15,6 @@ help command
 
 New features to be added soon, including a kick and ban command
 
-Robo please add more details when they arrive
+Bots developed in the github organization, project started 2019
 
-## Use the bot or you arent epic
+## Dont want support for the bot but just wanna chat? How about joining [this discord](https://discord.gg/tMX2JZ9)
