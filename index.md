@@ -1,6 +1,6 @@
 ## Welcome to AurachimeLabs
 
-AurachimeLabs is a discord bot developer run by 2 people who are attempting to make 2 bots better than another developer.
+AurachimeLabs is a discord bot development studio run by 2 people who are attempting to make 2 bots better than another developer.
 There is 2 bots:
 
 TogaBot
